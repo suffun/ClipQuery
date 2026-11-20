@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- macOS Monochrome Pure Black Background #000000 -->
+  <rect width="1024" height="1024" rx="224" ry="224" fill="#000000"/>
+  
+  <!-- Pure White Chat Bubble #FFFFFF -->
+  <g>
+    <!-- Main Bubble Body -->
+    <rect x="220" y="318" width="530" height="388" rx="170" ry="170" fill="#FFFFFF"/>
+    <!-- Integrated Geometric Play Triangle on Right Side -->
+    <polygon points="710,400 710,624 870,512" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Three Soft Rounded Black Dots -->
+  <circle cx="400" cy="512" r="28" fill="#000000"/>
+  <circle cx="485" cy="512" r="28" fill="#000000"/>
+  <circle cx="570" cy="512" r="28" fill="#000000"/>
+</svg>
+
