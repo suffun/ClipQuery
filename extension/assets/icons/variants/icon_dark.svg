@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- macOS Dark Mode Charcoal Background #1C1C1E -->
+  <rect width="1024" height="1024" rx="224" ry="224" fill="#1C1C1E"/>
+  
+  <!-- Apple Bright System Blue Chat Bubble #0A84FF -->
+  <g>
+    <!-- Main Bubble Body -->
+    <rect x="220" y="318" width="530" height="388" rx="170" ry="170" fill="#0A84FF"/>
+    <!-- Integrated Geometric Play Triangle on Right Side -->
+    <polygon points="710,400 710,624 870,512" fill="#0A84FF"/>
+  </g>
+
+  <!-- Three Soft Rounded White Dots -->
+  <circle cx="400" cy="512" r="28" fill="#FFFFFF"/>
+  <circle cx="485" cy="512" r="28" fill="#FFFFFF"/>
+  <circle cx="570" cy="512" r="28" fill="#FFFFFF"/>
+</svg>
+
