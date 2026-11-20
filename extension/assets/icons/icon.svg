@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- macOS Squircle Background #F5F5F7 -->
+  <rect width="1024" height="1024" rx="224" ry="224" fill="#F5F5F7"/>
+  
+  <!-- Apple System Blue Chat Bubble #007AFF -->
+  <g>
+    <!-- Main Bubble Body -->
+    <rect x="220" y="318" width="530" height="388" rx="170" ry="170" fill="#007AFF"/>
+    <!-- Integrated Geometric Play Triangle on Right Side -->
+    <polygon points="710,400 710,624 870,512" fill="#007AFF"/>
+  </g>
+
+  <!-- Three Soft Rounded White Dots -->
+  <circle cx="400" cy="512" r="28" fill="#FFFFFF"/>
+  <circle cx="485" cy="512" r="28" fill="#FFFFFF"/>
+  <circle cx="570" cy="512" r="28" fill="#FFFFFF"/>
+</svg>
+
